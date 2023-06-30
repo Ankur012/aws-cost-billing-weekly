@@ -29,4 +29,5 @@ python3  get-aws-weekly-report.py
 ```
 
 #### report
-![Alt text](///Users/ankur.gupta/Desktop/%5C/Screenshot%202023-06-30%20at%2011.48.52%20AM.png?raw=true "Optional Title")
+<img width="1406" alt="Slack_Notifcation" src="https://github.com/Ankur012/aws-cost-billing-weekly/assets/12594345/0dc019d7-a4a4-48dd-ab8e-0a35ec02d144">
+
